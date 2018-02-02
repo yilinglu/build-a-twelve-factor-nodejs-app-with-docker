@@ -1,1 +1,2 @@
-this is a foo file
+console.log('this is a foo file');
+
